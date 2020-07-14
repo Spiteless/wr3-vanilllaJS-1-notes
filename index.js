@@ -1,5 +1,5 @@
 // DOM
-
+console.log('hello world')
 // Accessing DOM Elements
 
 // Node Properties
